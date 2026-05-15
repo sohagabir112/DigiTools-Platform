@@ -1,0 +1,68 @@
+[
+	{
+		"id": "dt-001",
+		"name": "Design Sprint Kit",
+		"description": "Rapid wireframing, flows, and UI blocks for fast validation.",
+		"price": 49,
+		"period": "one-time",
+		"tag": "popular",
+		"tagType": "popular",
+		"features": ["120+ UI blocks", "Auto layout ready", "Light + dark"],
+		"icon": "/assets/products/design-tool.png"
+	},
+	{
+		"id": "dt-002",
+		"name": "Operations Radar",
+		"description": "Dashboards and KPI templates for daily ops visibility.",
+		"price": 19,
+		"period": "monthly",
+		"tag": "new",
+		"tagType": "new",
+		"features": ["12 KPI dashboards", "Export to CSV", "Team alerts"],
+		"icon": "/assets/products/operation.png"
+	},
+	{
+		"id": "dt-003",
+		"name": "Portfolio Builder",
+		"description": "Publish a polished portfolio in minutes, no code needed.",
+		"price": 99,
+		"period": "yearly",
+		"tag": "best seller",
+		"tagType": "best seller",
+		"features": ["Custom domains", "SEO presets", "Analytics"],
+		"icon": "/assets/products/portfolio.png"
+	},
+	{
+		"id": "dt-004",
+		"name": "Commerce Starter",
+		"description": "Launch a product shop with conversion-focused flows.",
+		"price": 39,
+		"period": "monthly",
+		"tag": "popular",
+		"tagType": "popular",
+		"features": ["Checkout flows", "Cart recovery", "Mobile-first"],
+		"icon": "/assets/products/shopping-cart.png"
+	},
+	{
+		"id": "dt-005",
+		"name": "Social Growth Lab",
+		"description": "Content calendars, hooks, and template packs.",
+		"price": 29,
+		"period": "monthly",
+		"tag": "new",
+		"tagType": "new",
+		"features": ["90-day plan", "Trend tracker", "Post templates"],
+		"icon": "/assets/products/social-media.png"
+	},
+	{
+		"id": "dt-006",
+		"name": "Writing Studio",
+		"description": "Briefs, prompts, and copy frameworks for teams.",
+		"price": 59,
+		"period": "one-time",
+		"tag": "best seller",
+		"tagType": "best seller",
+		"features": ["50+ briefs", "Tone presets", "Export to PDF"],
+		"icon": "/assets/products/writing_2327400 1.png"
+	}
+]
