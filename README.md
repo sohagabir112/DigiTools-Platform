@@ -26,4 +26,4 @@ Welcome to the **DigiTools Platform**, a premium digital tools buying website de
 ## 📤 Project Links
 
 - **GitHub Repository Link**: [https://github.com/sohagabir112/DigiTools-Platform](https://github.com/sohagabir112/DigiTools-Platform)
-- **Live Site Link**: *(To be deployed)*
+- **Live Site Link**: [*(To be deployed)*](https://digi-tools-platform-amber.vercel.app/)
