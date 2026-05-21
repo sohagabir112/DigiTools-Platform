@@ -11,6 +11,7 @@ import Testimonials from "./components/Testimonials";
 import FAQ from "./components/FAQ";
 import CTA from "./components/CTA";
 import Footer from "./components/Footer";
+import ChatWidget from "./components/ChatWidget";
 
 const App = () => {
 	const [products, setProducts] = useState([]);
@@ -80,6 +81,7 @@ const App = () => {
 			<CTA />
 			<Footer />
 			<ToastContainer position="top-right" autoClose={2000} />
+			<ChatWidget />
 		</div>
 	);
 };
